@@ -1,0 +1,5 @@
+# Export all names
+# exportPattern(".")
+export(create_gram_weights)
+importFrom(pracma, gaussLegendre)
+importFrom(compiler, cmpfun)
