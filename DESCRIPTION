@@ -1,6 +1,6 @@
 Package: GramQuad
-Version: 0.1
-Date: 2021-08-21
+Version: 0.1.1
+Date: 2022-07-09
 Title: Gram Quadrature
 Description: Numerical integration with Gram polynomials (based on <arXiv:2106.14875> [math.NA] 28 Jun 2021, by Irfan Muhammad [School of Computer Science, University of Birmingham, UK]).
 Authors@R: c(
@@ -15,10 +15,10 @@ URL: https://gitlab.com/iagogv/GramQuad
 BugReports: https://gitlab.com/iagogv/GramQuad/-/issues
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2021-08-21 17:54:23 UTC; iago
+Packaged: 2022-07-09 09:11:54 UTC; iago
 Author: Iago Giné-Vázquez [aut, cre, trl]
     (<https://orcid.org/0000-0002-6725-2638>),
   Irfan Muhammad [aut]
 Maintainer: Iago Giné-Vázquez <iago.gin-vaz@protonmail.com>
 Repository: CRAN
-Date/Publication: 2021-08-23 18:00:09 UTC
+Date/Publication: 2022-07-09 14:00:01 UTC
